@@ -1,0 +1,48 @@
+
+<VirtualHost *:443>
+ServerName [SITIO.localhost]
+
+DocumentRoot /data/sitios/[nombre del proyecto]/html
+
+CustomLog logs/vhosts/[SITIO.localhost].log combined
+ErrorLog logs/vhosts/error_logs/[SITIO.localhost].log
+
+DirectoryIndex index.html index.htm index.php
+
+ProxyPassMatch  ^/(.*\.php(/.*)?)$ fcgi://127.0.0.1:9000/data/sitios/[nombre del proyecto]/html/$1 timeout=600
+
+<Directory "/data/sitios/[nombre del proyecto]/">
+    AllowOverride All
+    Require all granted
+</Directory>
+
+
+#### VALIDACION DE CERTBOT
+Alias /.well-known/acme-challenge/ /data/sitios/certbot/.well-known/acme-challenge/
+
+<LocationMatch /.well-known/acme-challenge/>
+        Require all granted
+        Satisfy Any
+</LocationMatch>
+
+<Directory "/data/sitios/certbot/">
+        Require all granted
+        Satisfy Any
+</Directory>
+#### FIN VALIDACION DE CERTBOT
+
+#### CERTIFICADOS SSL
+#SSLCertificateFile /data/sitios/certbot/etc/letsencrypt/live/[SITIO.localhost]/cert.pem
+#SSLCertificateKeyFile /data/sitios/certbot/etc/letsencrypt/live/[SITIO.localhost]/privkey.pem
+#SSLCertificateChainFile /data/sitios/certbot/etc/letsencrypt/live/[SITIO.localhost]/chain.pem
+
+
+#### PHP 5.2
+# In case for PHP-FPM 5.2 compatibility use 'GENERIC' instead of 'FPM'
+# https://httpd.apache.org/docs/2.4/mod/mod_proxy_fcgi.html#proxyfcgibackendtype
+#
+# DESCOMENTAR SIGUIENTE LINEA:
+# ProxyFCGIBackendType GENERIC
+
+
+</VirtualHost>

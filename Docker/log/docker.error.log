@@ -1,0 +1,32 @@
+[02-Jul-2021 21:55:53] ERROR: [pool www] please specify user and group other than root
+[02-Jul-2021 21:55:53] ERROR: FPM initialization failed
+[02-Jul-2021 21:56:00] ERROR: [pool www] please specify user and group other than root
+[02-Jul-2021 21:56:00] ERROR: FPM initialization failed
+[02-Jul-2021 21:56:07] ERROR: [pool www] please specify user and group other than root
+[02-Jul-2021 21:56:07] ERROR: FPM initialization failed
+[02-Jul-2021 21:56:15] NOTICE: fpm is running, pid 229
+[02-Jul-2021 21:56:15] NOTICE: ready to handle connections
+[02-Jul-2021 21:56:33] NOTICE: fpm is running, pid 229
+[02-Jul-2021 21:56:33] NOTICE: ready to handle connections[02-Jul-2021 22:10:27] NOTICE: fpm is running, pid 229
+[02-Jul-2021 22:10:27] NOTICE: ready to handle connections
+[02-Jul-2021 22:10:59] NOTICE: fpm is running, pid 229
+[02-Jul-2021 22:10:59] NOTICE: ready to handle connections
+[02-Jul-2021 22:32:45] NOTICE: fpm is running, pid 229
+[02-Jul-2021 22:32:45] NOTICE: ready to handle connections
+[04-Jul-2021 19:52:30] NOTICE: fpm is running, pid 229
+[04-Jul-2021 19:52:30] NOTICE: ready to handle connections
+[04-Jul-2021 19:54:13] NOTICE: fpm is running, pid 229
+[04-Jul-2021 19:54:13] NOTICE: ready to handle connections
+[04-Jul-2021 20:03:43] NOTICE: fpm is running, pid 230
+[04-Jul-2021 20:03:43] NOTICE: ready to handle connections
+[04-Jul-2021 20:07:35] NOTICE: fpm is running, pid 229
+[04-Jul-2021 20:07:35] NOTICE: ready to handle connections
+[04-Jul-2021 21:46:54] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 6 total children
+[05-Jul-2021 20:18:44] ERROR: failed to ptrace(ATTACH) child 5237: Function not implemented (38)
+[05-Jul-2021 20:18:44] WARNING: [pool www] child 5237, script '/data/sitios/prueba-ilogica.local/public/index.php' (request: "POST /index.php") executing too slow (62.705642 sec), logging
+[05-Jul-2021 20:19:44] ERROR: failed to ptrace(ATTACH) child 5241: Function not implemented (38)
+[05-Jul-2021 20:19:44] WARNING: [pool www] child 5241, script '/data/sitios/prueba-ilogica.local/public/index.php' (request: "POST /index.php") executing too slow (79.437992 sec), logging
+[05-Jul-2021 20:20:44] ERROR: failed to ptrace(ATTACH) child 8070: Function not implemented (38)
+[05-Jul-2021 20:20:44] WARNING: [pool www] child 8070, script '/data/sitios/prueba-ilogica.local/public/index.php' (request: "POST /index.php") executing too slow (76.859046 sec), logging
+[06-Jul-2021 19:19:46] NOTICE: fpm is running, pid 229
+[06-Jul-2021 19:19:46] NOTICE: ready to handle connections

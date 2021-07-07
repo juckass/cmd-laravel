@@ -1,0 +1,954 @@
+[Thu May 27 17:04:07.186640 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:14.672452 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:21.577459 2021] [core:emerg] [pid 18:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:28.362394 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:35.226510 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:42.133478 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:49.085202 2021] [core:emerg] [pid 16:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:04:59.401113 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:21.593263 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:28.455952 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:35.451309 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:42.200306 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:48.544948 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Thu May 27 17:05:55.570724 2021] [core:emerg] [pid 17:tid 274904480584] (38)Function not implemented: AH00023: Couldn't create the ssl-cache mutex 
+AH00016: Configuration Failed
+[Fri May 28 09:41:20.543915 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri May 28 09:41:20.546968 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri May 28 09:41:20.547702 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri May 28 09:41:20.548267 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri May 28 09:41:20.548780 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri May 28 09:41:20.732971 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri May 28 09:41:20.747124 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri May 28 09:41:20.748533 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 10:26:23.692616 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 10:27:43.039957 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 10:29:10.430116 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 10:42:58.709896 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1213 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 10:44:04.998953 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1338 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 11:57:41.961352 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1772 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 11:58:22.148417 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1681 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 12:11:01.205413 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 3417 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 12:13:16.765749 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 3521 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 14:17:15.718876 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 3856 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 14:18:01.947275 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 3981 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 14:29:17.671949 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6292 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 14:31:28.193685 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6375 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 14:51:20.079416 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6710 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 15:05:07.401274 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6835 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 15:14:53.826560 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7338 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 18:55:32.631925 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7987 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 19:43:39.662044 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7694 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 20:16:57.056007 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 13277 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 20:17:21.159883 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 12690 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 20:18:59.584813 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 14053 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri May 28 20:19:37.753604 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 14261 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:34:47.982322 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 14352 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:34:51.019676 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 14157 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:35:02.073091 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 15595 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:52:33.309570 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 15735 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:53:04.457021 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 15665 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:55:02.998581 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 16175 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:55:40.140493 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 16279 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 10:56:34.383265 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 16404 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 11:28:27.508822 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 16591 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat May 29 11:38:51.047256 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 17346 exit signal Segmentation fault (11)
+[Sat May 29 20:10:03.062586 2021] [:notice] [pid 19:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Sat May 29 20:10:03.070612 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Sat May 29 20:10:03.072631 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Sat May 29 20:10:03.074332 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Sat May 29 20:10:03.077164 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Sat May 29 20:10:03.409241 2021] [ssl:warn] [pid 22:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat May 29 20:10:03.430491 2021] [mpm_event:notice] [pid 22:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat May 29 20:10:03.431731 2021] [core:notice] [pid 22:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Mon May 31 15:57:43.015274 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Mon May 31 15:57:43.020160 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Mon May 31 15:57:43.021159 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Mon May 31 15:57:43.022025 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Mon May 31 15:57:43.022555 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon May 31 15:57:43.364309 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 31 15:57:43.384002 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon May 31 15:57:43.386809 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon May 31 16:09:23.010294 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+[Tue Jun 01 16:08:54.664606 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Tue Jun 01 16:08:54.669369 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Tue Jun 01 16:08:54.670321 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Tue Jun 01 16:08:54.670999 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Tue Jun 01 16:08:54.671644 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jun 01 16:08:54.951306 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 01 16:08:54.967428 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jun 01 16:08:54.969674 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Wed Jun 02 09:08:43.753239 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 02 09:08:43.755886 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 02 09:08:43.756600 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 02 09:08:43.757288 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 02 09:08:43.757991 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 02 09:08:43.939797 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 02 09:08:43.957244 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 02 09:08:43.958344 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 09:38:55.383242 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 09:41:19.859892 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 09:42:18.072583 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 09:46:14.867759 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1182 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 10:15:03.382447 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1078 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 10:15:24.463120 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1349 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 10:15:37.517453 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2041 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 10:25:54.771855 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2207 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 10:28:03.218009 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2521 exit signal Segmentation fault (11)
+[Wed Jun 02 16:26:40.145262 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 02 16:26:40.148075 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 02 16:26:40.148736 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 02 16:26:40.149264 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 02 16:26:40.150020 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 02 16:26:40.331756 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 02 16:26:40.342473 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 02 16:26:40.344039 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 16:31:01.230691 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 02 16:42:58.853724 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+[Thu Jun 03 16:33:41.572240 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Thu Jun 03 16:33:41.575607 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Thu Jun 03 16:33:41.576273 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Thu Jun 03 16:33:41.576854 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Thu Jun 03 16:33:41.577390 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Thu Jun 03 16:33:41.757359 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 03 16:33:41.767682 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jun 03 16:33:41.768874 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 03 17:54:31.607131 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 03 17:54:56.726723 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 03 17:55:43.929372 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 03 17:56:24.095577 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1990 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 03 17:57:44.406538 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2073 exit signal Segmentation fault (11)
+[Fri Jun 04 14:54:13.684460 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jun 04 14:54:13.725058 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jun 04 14:54:13.728771 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jun 04 14:54:13.729857 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jun 04 14:54:13.730624 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jun 04 14:54:14.095467 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 04 14:54:14.113141 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jun 04 14:54:14.114798 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 14:57:11.751412 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:00:38.473195 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:05:30.529266 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:06:28.748366 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 396 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:11:30.816134 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 584 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:15:38.728213 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 688 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:19:52.641931 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1043 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 04 15:26:03.985239 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1210 exit signal Segmentation fault (11)
+[Mon Jun 07 10:40:16.265559 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Mon Jun 07 10:40:16.267621 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Mon Jun 07 10:40:16.268266 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Mon Jun 07 10:40:16.268920 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Mon Jun 07 10:40:16.269446 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jun 07 10:40:16.453642 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 07 10:40:16.464220 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Mon Jun 07 10:40:16.465635 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jun 07 10:51:16.860005 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+[Wed Jun 09 09:31:09.192518 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 09 09:31:09.194270 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 09 09:31:09.194995 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 09 09:31:09.195580 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 09 09:31:09.196142 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 09 09:31:09.383160 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 09 09:31:09.394116 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 09 09:31:09.397171 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:34:00.071411 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:34:16.113253 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:36:02.558646 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:36:16.617704 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 369 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:37:42.989462 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 473 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:39:08.330540 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 592 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:39:21.370606 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 696 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 09:43:51.440695 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 800 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:07:40.195011 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 904 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:29:42.454428 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1658 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:31:34.939481 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1071 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:32:03.043905 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2203 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:32:51.261383 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2328 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:33:17.371822 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2411 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 09 10:35:51.981268 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2515 exit signal Segmentation fault (11)
+[Thu Jun 10 10:19:52.048660 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Thu Jun 10 10:19:52.054753 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Thu Jun 10 10:19:52.055960 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Thu Jun 10 10:19:52.057039 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Thu Jun 10 10:19:52.058028 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Thu Jun 10 10:19:52.341432 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 10 10:19:52.368970 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jun 10 10:19:52.376964 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 10 10:34:09.513588 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 10 12:51:31.776990 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 26 exit signal Segmentation fault (11)
+[Wed Jun 16 09:31:39.359090 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 16 09:31:39.368099 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 16 09:31:39.369672 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 16 09:31:39.370874 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 16 09:31:39.372572 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 16 09:31:39.968617 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 16 09:31:39.999893 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 16 09:31:40.034945 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Thu Jun 17 11:08:58.325190 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Thu Jun 17 11:08:58.328355 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Thu Jun 17 11:08:58.329088 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Thu Jun 17 11:08:58.329699 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Thu Jun 17 11:08:58.330234 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Thu Jun 17 11:08:58.523398 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 17 11:08:58.539333 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jun 17 11:08:58.541115 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 17 11:31:55.218992 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 24 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 17 11:35:27.972826 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 17 12:12:46.929619 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 26 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Thu Jun 17 12:13:55.159197 2021] [core:notice] [pid 19:tid 274904480584] AH00052: child pid 831 exit signal Segmentation fault (11)
+[Thu Jun 17 14:14:30.594288 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Thu Jun 17 14:14:30.599042 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Thu Jun 17 14:14:30.599873 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Thu Jun 17 14:14:30.600550 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Thu Jun 17 14:14:30.601410 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Thu Jun 17 14:14:30.913810 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 17 14:14:30.929720 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jun 17 14:14:30.930608 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jun 25 10:31:35.533554 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jun 25 10:31:35.535931 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jun 25 10:31:35.536656 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jun 25 10:31:35.537210 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jun 25 10:31:35.537843 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jun 25 10:31:35.735589 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 25 10:31:35.746686 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jun 25 10:31:35.748104 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jun 25 10:36:00.791142 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+[Tue Jun 29 10:16:12.739023 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Tue Jun 29 10:16:12.750083 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Tue Jun 29 10:16:12.752549 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Tue Jun 29 10:16:12.754386 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Tue Jun 29 10:16:12.756264 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jun 29 10:16:13.146547 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 29 10:16:13.166116 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jun 29 10:16:13.168404 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Tue Jun 29 16:33:37.486778 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Tue Jun 29 16:33:37.493041 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Tue Jun 29 16:33:37.495246 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Tue Jun 29 16:33:37.497031 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Tue Jun 29 16:33:37.500146 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jun 29 16:33:37.763156 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 29 16:33:37.776230 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jun 29 16:33:37.777727 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Wed Jun 30 11:43:27.060419 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 30 11:43:27.064646 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 30 11:43:27.065467 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 30 11:43:27.066341 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 30 11:43:27.066978 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 30 11:43:27.395265 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 30 11:43:27.412150 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 30 11:43:27.413073 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Wed Jun 30 15:50:52.119396 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Wed Jun 30 15:50:52.121903 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Wed Jun 30 15:50:52.122488 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Wed Jun 30 15:50:52.123038 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Wed Jun 30 15:50:52.123525 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Wed Jun 30 15:50:52.308231 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 30 15:50:52.319735 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Wed Jun 30 15:50:52.320775 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 16:54:29.253544 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 30 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 16:55:45.548917 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 26 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:03:25.399504 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:04:54.766622 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 1615 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:05:42.971679 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 1866 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:06:18.113142 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 1989 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:12:47.658873 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 2093 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:24:03.190430 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 2199 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:24:17.251989 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 2410 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 17:24:31.302883 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 2747 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Wed Jun 30 18:03:49.545131 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 2832 exit signal Segmentation fault (11)
+[Thu Jul 01 17:17:48.142769 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Thu Jul 01 17:17:48.146073 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Thu Jul 01 17:17:48.146713 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Thu Jul 01 17:17:48.147270 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Thu Jul 01 17:17:48.147883 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Thu Jul 01 17:17:48.334002 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 01 17:17:48.348579 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Thu Jul 01 17:17:48.349573 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 15:16:02.990823 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 15:16:02.992861 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 15:16:02.993498 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 15:16:02.994092 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 15:16:02.994678 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 15:16:03.206335 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 15:16:03.217957 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 15:16:03.219198 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:13:16.364352 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:13:16.369967 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:13:16.370793 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:13:16.371238 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:13:16.371883 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:13:16.551495 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:13:16.563309 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:13:16.564704 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:15:32.722180 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:15:32.724212 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:15:32.725019 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:15:32.725655 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:15:32.726204 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:15:32.905805 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:15:32.918051 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:15:32.919168 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:30:57.142147 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:30:57.148942 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:30:57.149934 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:30:57.150469 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:30:57.151048 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:30:57.331736 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:30:57.343180 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:30:57.344018 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:04.450443 2021] [:notice] [pid 25:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:04.452048 2021] [:notice] [pid 25:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:04.453058 2021] [:notice] [pid 25:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:04.453722 2021] [:notice] [pid 25:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:04.454407 2021] [:notice] [pid 25:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:04.660820 2021] [ssl:warn] [pid 30:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:04.672152 2021] [mpm_event:notice] [pid 30:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:04.673468 2021] [core:notice] [pid 30:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:11.682193 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:11.683984 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:11.684801 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:11.685247 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:11.685903 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:11.867165 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:11.877460 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:11.878647 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:18.950640 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:18.952291 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:18.953129 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:18.953634 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:18.954164 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:19.142037 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:19.151612 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:19.153131 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:26.138044 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:26.139517 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:26.140378 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:26.140953 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:26.141647 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:26.323041 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:26.332933 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:26.333707 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:33.239261 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:33.241038 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:33.241827 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:33.242288 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:33.242894 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:33.425744 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:33.436495 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:33.437492 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:40.453845 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:40.455911 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:40.456846 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:40.457348 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:40.457963 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:40.655168 2021] [ssl:warn] [pid 29:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:40.664791 2021] [mpm_event:notice] [pid 29:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:40.666519 2021] [core:notice] [pid 29:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:31:50.909008 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:31:50.910724 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:31:50.911475 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:31:50.911986 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:31:50.912694 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:31:51.095855 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:31:51.106607 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:31:51.107603 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:32:07.794158 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:32:07.795773 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:32:07.796772 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:32:07.797335 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:32:07.798055 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:32:07.981989 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:32:07.991891 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:32:07.992810 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:32:37.540259 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:32:37.542403 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:32:37.543264 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:32:37.543892 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:32:37.544424 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:32:37.723139 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:32:37.734090 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:32:37.735488 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:33:32.912249 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:33:32.914236 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:33:32.915038 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:33:32.915643 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:33:32.916131 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:33:33.114146 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:33:33.125273 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:33:33.126469 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:38:56.283142 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:38:56.284795 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:38:56.285868 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:38:56.286448 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:38:56.287099 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:38:56.483473 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:38:56.492329 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:38:56.493298 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:03.453325 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:03.454839 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:03.455908 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:03.456438 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:03.457203 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:03.643140 2021] [ssl:warn] [pid 32:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:03.657687 2021] [mpm_event:notice] [pid 32:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:03.658547 2021] [core:notice] [pid 32:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:10.706046 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:10.707836 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:10.708910 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:10.709492 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:10.710043 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:10.888707 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:10.898108 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:10.899232 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:17.926157 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:17.927952 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:17.928783 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:17.929303 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:17.929976 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:18.115606 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:18.125123 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:18.126304 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:25.006830 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:25.008573 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:25.009480 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:25.010014 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:25.010715 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:25.205762 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:25.218349 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:25.219435 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:32.232889 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:32.235684 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:32.236422 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:32.237087 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:32.237641 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:32.418211 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:32.428810 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:32.430114 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:39.488490 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:39.490361 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:39.491301 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:39.491907 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:39.492499 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:39.669678 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:39.679106 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:39.680202 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:39:50.116096 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:39:50.117974 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:39:50.118844 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:39:50.119494 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:39:50.120103 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:39:50.303116 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:39:50.312368 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:39:50.313449 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:40:06.970990 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:40:06.972715 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:40:06.973801 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:40:06.974475 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:40:06.975250 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:40:07.152820 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:40:07.163081 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:40:07.164290 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:40:36.725808 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:40:36.727584 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:40:36.728340 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:40:36.728912 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:40:36.729550 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:40:36.921185 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:40:36.930856 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:40:36.932297 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:21.842073 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:21.843948 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:21.844746 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:21.845203 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:21.845726 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:22.022177 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:22.031719 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:22.032868 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:28.973378 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:28.974895 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:28.975754 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:28.976211 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:28.976822 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:29.174023 2021] [ssl:warn] [pid 28:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:29.187451 2021] [mpm_event:notice] [pid 28:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:29.188368 2021] [core:notice] [pid 28:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:36.208923 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:36.210752 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:36.211959 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:36.213835 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:36.214478 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:36.395670 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:36.405840 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:36.407115 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:43.258097 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:43.259951 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:43.260895 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:43.261584 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:43.262351 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:43.445341 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:43.455175 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:43.456091 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:50.266532 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:50.268346 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:50.269199 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:50.269825 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:50.270325 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:50.459964 2021] [ssl:warn] [pid 27:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:50.468786 2021] [mpm_event:notice] [pid 27:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:50.469868 2021] [core:notice] [pid 27:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:50:57.291558 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:50:57.293492 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:50:57.294552 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:50:57.295225 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:50:57.295984 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:50:57.473234 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:50:57.482314 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:50:57.483845 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:51:04.416911 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:51:04.419353 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:51:04.420285 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:51:04.420990 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:51:04.421662 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:51:04.599502 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:51:04.609566 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:51:04.611107 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:51:14.863315 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:51:14.865270 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:51:14.866105 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:51:14.866929 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:51:14.867571 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:51:15.045102 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:51:15.054429 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:51:15.055456 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:51:31.773250 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:51:31.774931 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:51:31.775697 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:51:31.776148 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:51:31.776847 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:51:31.959438 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:51:31.969367 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:51:31.970506 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:52:01.376520 2021] [:notice] [pid 19:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:52:01.378549 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:52:01.379368 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:52:01.379879 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:52:01.380450 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:52:01.569035 2021] [ssl:warn] [pid 22:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:52:01.579132 2021] [mpm_event:notice] [pid 22:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:52:01.580192 2021] [core:notice] [pid 22:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:52:56.878409 2021] [:notice] [pid 19:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:52:56.881514 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:52:56.882530 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:52:56.883123 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:52:56.883870 2021] [:notice] [pid 19:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:52:57.166866 2021] [ssl:warn] [pid 22:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:52:57.176667 2021] [mpm_event:notice] [pid 22:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:52:57.177493 2021] [core:notice] [pid 22:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:01.147253 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:01.149276 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:01.150218 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:01.150812 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:01.151509 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:01.333804 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:01.343928 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:01.344808 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:08.719025 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:08.720593 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:08.721559 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:08.722087 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:08.722666 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:08.902322 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:08.912510 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:08.913917 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:15.804169 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:15.805765 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:15.806541 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:15.807188 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:15.807831 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:16.001191 2021] [ssl:warn] [pid 30:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:16.011847 2021] [mpm_event:notice] [pid 30:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:16.013153 2021] [core:notice] [pid 30:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:22.960780 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:22.962402 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:22.963239 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:22.963767 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:22.964532 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:23.152113 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:23.161282 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:23.163209 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:30.079311 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:30.081068 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:30.081924 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:30.082840 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:30.083419 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:30.275795 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:30.285305 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:30.286342 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:37.131786 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:37.133741 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:37.134749 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:37.135374 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:37.135960 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:37.329785 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:37.338998 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:37.340244 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:44.550442 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:44.552391 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:44.553282 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:44.553744 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:44.554539 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:44.738068 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:44.748141 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:44.749126 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:54:51.730522 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:54:51.732432 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:54:51.733476 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:54:51.734104 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:54:51.734820 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:54:51.915346 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:54:51.924540 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:54:51.926025 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:55:02.449239 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:55:02.459757 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:55:02.460784 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:55:02.461339 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:55:02.461919 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:55:02.651115 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:55:02.661338 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:55:02.662275 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:55:32.060700 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:55:32.062605 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:55:32.063620 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:55:32.064099 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:55:32.064642 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:55:32.243645 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:55:32.252861 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:55:32.253971 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:55:39.285547 2021] [:notice] [pid 20:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:55:39.287213 2021] [:notice] [pid 20:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:55:39.288043 2021] [:notice] [pid 20:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:55:39.288630 2021] [:notice] [pid 20:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:55:39.289138 2021] [:notice] [pid 20:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:55:39.482355 2021] [ssl:warn] [pid 34:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:55:39.491912 2021] [mpm_event:notice] [pid 34:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:55:39.493020 2021] [core:notice] [pid 34:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:55:46.354103 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:55:46.356224 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:55:46.357242 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:55:46.357777 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:55:46.358349 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:55:46.552949 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:55:46.562148 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:55:46.577254 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:55:53.391311 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:55:53.393151 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:55:53.394015 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:55:53.394515 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:55:53.395042 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:55:53.576701 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:55:53.587933 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:55:53.589193 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:56:00.420538 2021] [:notice] [pid 16:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:56:00.423104 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:56:00.424147 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:56:00.424814 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:56:00.425743 2021] [:notice] [pid 16:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:56:00.633056 2021] [ssl:warn] [pid 19:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:56:00.643184 2021] [mpm_event:notice] [pid 19:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:56:00.644485 2021] [core:notice] [pid 19:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:56:07.642347 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:56:07.644052 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:56:07.644788 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:56:07.645188 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:56:07.645728 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:56:07.824337 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:56:07.835725 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:56:07.836970 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:56:14.920810 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:56:14.922687 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:56:14.923495 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:56:14.924002 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:56:14.924530 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:56:15.103494 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:56:15.113116 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:56:15.114140 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 21:56:33.552498 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 21:56:33.554435 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 21:56:33.555354 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 21:56:33.555973 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 21:56:33.556458 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 21:56:33.737235 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 21:56:33.746844 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 21:56:33.747771 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 22:10:26.788931 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 22:10:26.790710 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 22:10:26.791703 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 22:10:26.792448 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 22:10:26.793208 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 22:10:27.004579 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 22:10:27.016103 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 22:10:27.017335 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+[Fri Jul 02 22:10:58.958170 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 22:10:58.959754 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 22:10:58.960836 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 22:10:58.961327 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 22:10:58.962039 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 22:10:59.153660 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 22:10:59.164444 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 22:10:59.165452 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 22:28:24.064142 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+[Fri Jul 02 22:28:24.072472 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 22:31:08.705089 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+[Fri Jul 02 22:31:08.706716 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1998 exit signal Segmentation fault (11)
+[Fri Jul 02 22:32:44.829779 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Fri Jul 02 22:32:44.831549 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Fri Jul 02 22:32:44.832410 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Fri Jul 02 22:32:44.832957 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Fri Jul 02 22:32:44.833923 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Fri Jul 02 22:32:45.037275 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 02 22:32:45.048333 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Fri Jul 02 22:32:45.053346 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 23:40:50.382824 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 23:45:05.300688 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 23:46:27.634478 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 23:48:29.137518 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2362 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Fri Jul 02 23:56:27.911043 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2451 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 12:14:05.964176 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2797 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 12:14:18.998794 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 2561 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 12:40:53.810889 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 4043 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 12:58:17.656101 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 4678 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 12:58:38.741803 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 3975 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:12:01.882208 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5189 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:12:19.947937 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5103 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:13:29.196544 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5619 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:15:09.548506 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5551 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:17:24.070861 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5708 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:18:06.236730 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 5818 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sat Jul 03 13:47:28.591020 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6017 exit signal Segmentation fault (11)
+[Sun Jul 04 19:52:30.375353 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Sun Jul 04 19:52:30.382536 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Sun Jul 04 19:52:30.383476 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Sun Jul 04 19:52:30.384027 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Sun Jul 04 19:52:30.384660 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Sun Jul 04 19:52:30.571997 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 04 19:52:30.585269 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jul 04 19:52:30.586395 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 19:52:50.661727 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 19:53:00.692490 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+[Sun Jul 04 19:54:13.409014 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Sun Jul 04 19:54:13.410625 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Sun Jul 04 19:54:13.411651 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Sun Jul 04 19:54:13.412208 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Sun Jul 04 19:54:13.412926 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Sun Jul 04 19:54:13.601692 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 04 19:54:13.613043 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jul 04 19:54:13.614181 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 19:54:34.691861 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 19:57:53.451510 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 19:59:53.890835 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 29 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:00:52.142255 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 319 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:00:57.170868 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 429 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:01:18.248343 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 586 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:01:34.323643 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 518 exit signal Segmentation fault (11)
+[Sun Jul 04 20:03:42.951464 2021] [:notice] [pid 18:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Sun Jul 04 20:03:42.953064 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Sun Jul 04 20:03:42.953966 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Sun Jul 04 20:03:42.954548 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Sun Jul 04 20:03:42.955382 2021] [:notice] [pid 18:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Sun Jul 04 20:03:43.149464 2021] [ssl:warn] [pid 21:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 04 20:03:43.161801 2021] [mpm_event:notice] [pid 21:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jul 04 20:03:43.163359 2021] [core:notice] [pid 21:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:04:12.263645 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 30 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:04:42.384085 2021] [core:notice] [pid 21:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+[Sun Jul 04 20:07:34.960583 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Sun Jul 04 20:07:34.962250 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Sun Jul 04 20:07:34.963133 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Sun Jul 04 20:07:34.964730 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Sun Jul 04 20:07:34.965265 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Sun Jul 04 20:07:35.181014 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 04 20:07:35.198738 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sun Jul 04 20:07:35.201193 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:36:30.295672 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 25 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:40:26.173017 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 28 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:49:50.338803 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 27 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:50:12.417312 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 762 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Sun Jul 04 20:50:59.621895 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1040 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:21:31.304791 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1197 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:37:56.879791 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6272 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:44:23.213154 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6676 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:45:03.345507 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 1108 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:47:46.856043 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6891 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 19:48:01.917786 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 6959 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 20:06:49.959435 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7090 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 20:18:43.599721 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7680 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 20:23:30.070500 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 7158 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 20:43:59.483418 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 8002 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 22:18:04.114760 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 8667 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 22:18:26.199504 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 8179 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 22:30:14.923593 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 10462 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 22:39:20.930696 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 10355 exit signal Segmentation fault (11)
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+[Mon Jul 05 23:06:50.015662 2021] [core:notice] [pid 20:tid 274904480584] AH00052: child pid 10800 exit signal Segmentation fault (11)
+[Tue Jul 06 19:19:45.764382 2021] [:notice] [pid 17:tid 274904480584] ModSecurity for Apache/2.9.3 (http://www.modsecurity.org/) configured.
+[Tue Jul 06 19:19:45.766487 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: APR compiled version="1.7.0"; loaded version="1.7.0"
+[Tue Jul 06 19:19:45.767352 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: PCRE compiled version="8.44 "; loaded version="8.44 2020-02-12"
+[Tue Jul 06 19:19:45.767934 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: LIBXML compiled version="2.9.10"
+[Tue Jul 06 19:19:45.769322 2021] [:notice] [pid 17:tid 274904480584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jul 06 19:19:45.977526 2021] [ssl:warn] [pid 20:tid 274904480584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jul 06 19:19:45.994103 2021] [mpm_event:notice] [pid 20:tid 274904480584] AH00489: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Tue Jul 06 19:19:45.995506 2021] [core:notice] [pid 20:tid 274904480584] AH00094: Command line: '/usr/local/apache2/bin/httpd'

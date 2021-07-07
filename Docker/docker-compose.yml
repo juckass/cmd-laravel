@@ -1,0 +1,20 @@
+alpine-php74:
+ hostname: web
+ image: juckass/alpine-php74:1.0
+ container_name: prueba
+ restart: always
+ ports:
+  - '9074:9000'
+  - '80:80'
+  - '443:443'
+ environment:
+  - TZ=America/Santiago
+ volumes: 
+  - './../App/:/data/sitios/'
+  - './etc/:/usr/local/etc/'
+  - './log/:/usr/local/var/log/'
+  - './log/:/usr/local/log/'
+  - './config-apache-24/default/:/data/sitios/default/'
+  - './config-apache-24/conf/:/usr/local/apache2/conf/'
+  - './config-apache-24/logs/:/usr/local/apache2/logs/'
+# mem_limit: 1000m

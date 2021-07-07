@@ -1,0 +1,35 @@
+
+<VirtualHost *:80>
+ServerName [SITIO.localhost]
+
+DocumentRoot /data/sitios/[nombre del proyecto]/html
+
+CustomLog logs/vhosts/[SITIO.localhost].log combined
+ErrorLog logs/vhosts/error_logs/[SITIO.localhost].log
+
+DirectoryIndex index.html index.htm index.php
+
+ProxyPassMatch  ^/(.*\.php(/.*)?)$ fcgi://127.0.0.1:9000/data/sitios/[nombre del proyecto]/html/$1 timeout=600
+
+<Directory "/data/sitios/[nombre del proyecto]/">
+    AllowOverride All
+    Require all granted
+</Directory>
+
+
+# VALIDACION DE CERTBOT
+Alias /.well-known/acme-challenge/ /data/sitios/certbot/.well-known/acme-challenge/
+
+<LocationMatch /.well-known/acme-challenge/>
+        Require all granted
+        Satisfy Any
+</LocationMatch>
+
+<Directory "/data/sitios/certbot/">
+        Require all granted
+        Satisfy Any
+</Directory>
+# FIN VALIDACION DE CERTBOT
+
+
+</VirtualHost>

@@ -1,0 +1,13 @@
+{
+    "name": "Paginas",
+    "alias": "paginas",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Paginas\\Providers\\PaginasServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
